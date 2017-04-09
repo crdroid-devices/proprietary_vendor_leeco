@@ -893,6 +893,7 @@ PRODUCT_COPY_FILES += \
     vendor/leeco/s2/proprietary/vendor/lib64/sensor_calibrate.so:system/vendor/lib64/sensor_calibrate.so \
     vendor/leeco/s2/proprietary/vendor/lib64/sensors.ssc.so:system/vendor/lib64/sensors.ssc.so \
     vendor/leeco/s2/proprietary/vendor/qcril.db:system/vendor/qcril.db
+    vendor/leeco/s2/proprietary/vendor/lib64/libuiblur.so:system/vendor/lib64/libuiblur.so
 
 PRODUCT_PACKAGES += \
     libloc_api_v02 \
